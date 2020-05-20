@@ -15,6 +15,13 @@ git checkout project1
 git push --set-upstream origin project1 (to point parent branch to origin/master)
 git log
 
+git checkout -b project1 (checkout from branch)
+
+to switch between master and branch:
+git checkout project1
+git checkout master
+
 git merge [branch]
 git log
+
 
