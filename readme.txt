@@ -21,7 +21,9 @@ to switch between master and branch:
 git checkout project1
 git checkout master
 
-git merge [branch]
+git checkout master (switch  to master first)
+git merge project1
 git log
+git log --graph
 
 
