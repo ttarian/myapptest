@@ -1,3 +1,5 @@
+[![CI](https://github.com/ttarian/myapptest/actions/workflows/blank.yml/badge.svg)](https://github.com/ttarian/myapptest/actions/workflows/blank.yml)
+
 git init (for new)
 git clone https://github.com/ttarian/myapptest.git
 git pull (for update)
